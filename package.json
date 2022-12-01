@@ -2,7 +2,7 @@
   "name": "miprimerproyectonodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "listobjfechas.js",
+  "main": "3.0/ejercicio3/for.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
